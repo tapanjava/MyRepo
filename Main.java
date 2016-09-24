@@ -4,5 +4,6 @@ class Main
 	{
 		System.out.println("Hello World!");
 		System.out.println("Welcome to Git");
+		System.out.println("Welcome to Github");
 	}
 }
